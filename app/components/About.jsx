@@ -10,7 +10,7 @@ var React = require ('react');
 
 var About = (props) => {
   return(
-    <h3>Testing GIT GUI About Component</h3>
+    <h3>About Component</h3>
   )
 };
 
